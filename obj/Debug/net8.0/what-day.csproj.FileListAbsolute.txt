@@ -1,0 +1,14 @@
+C:\School\C#\C# Novice\Level-4\What-Day-Is-it-bfda351d744a-69acd41757e7\obj\Debug\net8.0\what-day.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\C#\C# Novice\Level-4\What-Day-Is-it-bfda351d744a-69acd41757e7\obj\Debug\net8.0\what-day.AssemblyInfoInputs.cache
+C:\School\C#\C# Novice\Level-4\What-Day-Is-it-bfda351d744a-69acd41757e7\obj\Debug\net8.0\what-day.AssemblyInfo.cs
+C:\School\C#\C# Novice\Level-4\What-Day-Is-it-bfda351d744a-69acd41757e7\obj\Debug\net8.0\what-day.csproj.CoreCompileInputs.cache
+C:\School\C#\C# Novice\Level-4\What-Day-Is-it-bfda351d744a-69acd41757e7\bin\Debug\net8.0\what-day.exe
+C:\School\C#\C# Novice\Level-4\What-Day-Is-it-bfda351d744a-69acd41757e7\bin\Debug\net8.0\what-day.deps.json
+C:\School\C#\C# Novice\Level-4\What-Day-Is-it-bfda351d744a-69acd41757e7\bin\Debug\net8.0\what-day.runtimeconfig.json
+C:\School\C#\C# Novice\Level-4\What-Day-Is-it-bfda351d744a-69acd41757e7\bin\Debug\net8.0\what-day.dll
+C:\School\C#\C# Novice\Level-4\What-Day-Is-it-bfda351d744a-69acd41757e7\bin\Debug\net8.0\what-day.pdb
+C:\School\C#\C# Novice\Level-4\What-Day-Is-it-bfda351d744a-69acd41757e7\obj\Debug\net8.0\what-day.dll
+C:\School\C#\C# Novice\Level-4\What-Day-Is-it-bfda351d744a-69acd41757e7\obj\Debug\net8.0\refint\what-day.dll
+C:\School\C#\C# Novice\Level-4\What-Day-Is-it-bfda351d744a-69acd41757e7\obj\Debug\net8.0\what-day.pdb
+C:\School\C#\C# Novice\Level-4\What-Day-Is-it-bfda351d744a-69acd41757e7\obj\Debug\net8.0\what-day.genruntimeconfig.cache
+C:\School\C#\C# Novice\Level-4\What-Day-Is-it-bfda351d744a-69acd41757e7\obj\Debug\net8.0\ref\what-day.dll
